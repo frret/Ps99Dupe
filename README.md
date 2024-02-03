@@ -4,4 +4,4 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/frret/Ps99Dupe/main/Ps99_Dupe.lua"))()
 ```
-Tested on Hydrogen, Arceus X, VegaX and Codex.
+Tested on Hydrogen, Arceus X, Fluxus and Codex.
